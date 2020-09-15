@@ -1,9 +1,10 @@
 # Algorithms
 
-1 Algorithm written in Python and Java.
+2 Well implemented Algorithms in Python and Java.
 
 # Table of Contents
 
 # Sorting
 
 - Insertion Sort
+- Insertion Sort (Decreasing)
