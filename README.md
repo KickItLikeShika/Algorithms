@@ -1,6 +1,6 @@
 # Algorithms
 
-2 Well implemented Algorithms in Python and Java.
+3 Well implemented Algorithms in Python and Java.
 
 # Table of Contents
 
@@ -8,3 +8,4 @@
 
 - Insertion Sort
 - Insertion Sort (Decreasing)
+- Merge Sort
