@@ -9,8 +9,10 @@ def merge_sort(nums, start, end):
 def merge(nums, start, mid, end):
     n1 = mid - start + 1
     n2 = end - mid
+
     left = [0] * (n1)
     right = [0] * (n2)
+
     for i in range(n1):
         left[i] = nums[start + i]
     for j in range(n2):
@@ -18,6 +20,7 @@ def merge(nums, start, mid, end):
 
     i, j = 0, 0
     k = start
+
     while i < n1 and j < n2:
         if left[i] <= right[j]:
             nums[k] = left[i]
