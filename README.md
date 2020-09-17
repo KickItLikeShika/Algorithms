@@ -1,6 +1,6 @@
 # Algorithms
 
-4 Well implemented Algorithms in Python and Java.
+6 Well implemented (Algorithms + Exercises) in Python and Java.
 
 # Table of Contents
 
@@ -10,3 +10,5 @@
 - Insertion Sort (Decreasing order)
 - Merge Sort
 - Merge Sort (Decreasing order)
+- Bubble Sort
+- Bubble Sort (Decreasing order)
