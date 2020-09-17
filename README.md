@@ -6,7 +6,7 @@
 
 ## Algorithms
 
-# Sorting
+### Sorting
 
 - Insertion Sort
 - Insertion Sort (Decreasing order)
@@ -16,3 +16,5 @@
 - Bubble Sort (Decreasing order)
 
 ## Exercises
+
+- Find Maximum Sub-Array
