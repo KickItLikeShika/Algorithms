@@ -4,6 +4,8 @@
 
 # Table of Contents
 
+## Algorithms
+
 # Sorting
 
 - Insertion Sort
@@ -12,3 +14,5 @@
 - Merge Sort (Decreasing order)
 - Bubble Sort
 - Bubble Sort (Decreasing order)
+
+## Exercises
