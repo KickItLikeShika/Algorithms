@@ -1,5 +1,4 @@
 def MaxSubArray(nums, low, high):
-    # pass
     if low == high:
         return nums[low]
     else:
@@ -11,7 +10,6 @@ def MaxSubArray(nums, low, high):
 
 
 def MaxCrossingSubArray(nums, low, mid, high):
-    # pass
     left_sum, summ = -100000, 0
     for i in range(mid, low-1, -1):
         summ += nums[i]
