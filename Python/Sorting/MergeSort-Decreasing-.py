@@ -16,7 +16,7 @@ def merge(nums, start, mid, end):
     for i in range(n1):
         left[i] = nums[start + i]
     for j in range(n2):
-        right[j] = nums[mid + j + 1]
+        right[j] = nums[mid + 1 + j]
 
     i, j = 0, 0
     k = start

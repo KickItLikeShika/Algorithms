@@ -1,6 +1,6 @@
 # Algorithms
 
-6 Well implemented Algorithms in Python and Java + 1 Exercise solved in Python.
+6 Well implemented Algorithms in Python and Java + 2 Exercise solved in Python.
 
 # Table of Contents
 
@@ -18,3 +18,4 @@
 ## Exercises
 
 - Find Maximum Sub-Array
+- The hiring problem
