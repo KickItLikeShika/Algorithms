@@ -46,9 +46,9 @@ if __name__ == "__main__":
 
     # max heap
     heapq._heapify_max(nums)
-    print("MAX heap from built in heapq")
+    print("MAX heap from built in heapq: ")
     print(nums)
 
     build_max_heap(nums2)
-    print("MAX heap manually implemented")
+    print("MAX heap manually implemented: ")
     print(nums2)

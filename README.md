@@ -1,6 +1,6 @@
 # Algorithms
 
-6 Well implemented Algorithms in Python and Java + 2 + 2(NOT DONE) Exercise solved in Python.
+6 Well implemented Algorithms in Python and Java + 3 + 1(NOT DONE) Exercise solved in Python.
 
 # Table of Contents
 
@@ -19,5 +19,5 @@
 
 - Find Maximum Sub-Array
 - The hiring problem
-- Building Max Heap -- NOT DONE
+- Building Max Heap
 - Building Min Heap -- NOT DONE
