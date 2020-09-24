@@ -40,10 +40,6 @@ if __name__ == "__main__":
     nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     nums2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 
-    # min heap
-    # heapq.heapify(nums)
-    # print(nums)
-
     # max heap
     heapq._heapify_max(nums)
     print("MAX heap from built in heapq: ")
