@@ -1,6 +1,6 @@
 # Algorithms
 
-6 + 1(NOT DONE) Well implemented Algorithms in Python and Java + 4 Exercise solved in Python.
+7 Well implemented Algorithms in Python and Java + 4 Exercise solved in Python.
 
 # Table of Contents
 
@@ -14,7 +14,7 @@
 - Merge Sort (Decreasing order)
 - Bubble Sort
 - Bubble Sort (Decreasing order)
-- Heap Sort -- NOT DONE
+- Heap Sort
 
 ## Exercises
 
