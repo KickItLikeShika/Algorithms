@@ -21,11 +21,13 @@ class Node:
             self.key = data
 
     # Exercise
-    def inorder_tree_walk(self, root):
-        if root:
-            self.inorder_tree_walk(root.left)
-            print(root.data)
-            self.inorder_tree_walk(root.right)
+    def tree_search(self, root, value):
+        if root == None or value == root.data:
+            return root
+        elif value < root.data:
+            return self.tree_search(root.left, value)
+        else:
+            return self.tree_search(root.right, value)
 
 
 if __name__ == '__main__':
@@ -36,4 +38,5 @@ if __name__ == '__main__':
     root.insert(19)
     root.insert(31)
     root.insert(42)
-    root.inorder_tree_walk(root)
+    x = root.tree_search(root, 31)
+    print(x.data)
