@@ -18,7 +18,7 @@ class Node:
                     self.right.insert(data)
 
         else:
-            self.key = data
+            self.data = data
 
     # Exercise
     def iterative_tree_serach(self, root, value):

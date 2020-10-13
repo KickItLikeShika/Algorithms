@@ -21,13 +21,13 @@ class Node:
             self.data = data
 
     # Exercise
-    def tree_search(self, root, value):
-        if root == None or value == root.data:
-            return root
-        elif value < root.data:
-            return self.tree_search(root.left, value)
-        else:
-            return self.tree_search(root.right, value)
+    def find_tree_maximum(self, root):
+        current = root
+
+        while current.right != None:
+            current = current.right
+
+        return current.data
 
 
 if __name__ == '__main__':
@@ -38,5 +38,4 @@ if __name__ == '__main__':
     root.insert(19)
     root.insert(31)
     root.insert(42)
-    x = root.tree_search(root, 31)
-    print(x.data)
+    print(root.find_tree_maximum(root))
