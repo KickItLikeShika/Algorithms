@@ -1,6 +1,6 @@
 # Algorithms
 
-5 Well implemented Algorithms in Python and Java + 7 Exercise solved in Python.
+5 Well implemented Algorithms in Python and Java + 9 Exercise solved in Python.
 
 # Table of Contents
 
@@ -23,3 +23,5 @@
 - Inorder Tree Walk
 - Search Binary Tree (Recursively)
 - Search Binary Tree (Iteratively)
+- Find Tree Maximum
+- Find Tree Minimum
