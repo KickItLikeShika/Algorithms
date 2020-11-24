@@ -1,6 +1,6 @@
 # Algorithms
 
-5 Well implemented Algorithms in Python and Java + 9 Exercise solved in Python.
+5 Well implemented Algorithms in Python and Java + 9 Exercise solved in Python. 
 
 # Table of Contents
 
